@@ -1,6 +1,6 @@
 # vue-sample-spa
 
-This template should help get you started developing with Vue 3 in Vite. Hello World!
+This template should help get you started developing with Vue 3 in Vite. Hello Worlds!
 
 ## Recommended IDE Setup
 
